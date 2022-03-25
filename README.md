@@ -26,7 +26,7 @@ Implement a program to calculate the ways.
 To compile the code execute the below command in the cli:
 
 ```bash
-$ javac FindWays.java
+$ javac Core.java
 ```
 
 ## Execution
@@ -34,5 +34,5 @@ After compilation, the .java file translated to the .class file which is bytecod
 Now we can run the program using the below command in the cli:
 
 ```bash
-$ java FindWays
+$ java Core
 ```
